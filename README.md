@@ -1,6 +1,8 @@
 # Hello👋   
 <hr>
 The purpose of this repository is to prepare weekly paper reviews.
+
+my research interest is Medical Image AI. like generation, enhancement, segmentation... etc.
 <hr>
 <ui>
     contents
